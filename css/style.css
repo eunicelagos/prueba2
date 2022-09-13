@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+body{
+	font-size: 14px;
+}
+header{
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+	border-bottom: 1px solid #eee;
+}
+
+#hero{
+	background-image: url("../img/home-header-bg.jpg");
+	background-size: cover;
+	background-position: top center;
+	min-height: 400px;
+}
+
+
+
+#products{
+	text-align: center;
+	
+}
+#products h2{
+	font-size: 30px;
+	text-align: center;
+	color: #000;
+	font-weight: 600;
+	letter-spacing: 1px;
+	margin-bottom: 5%;
+	
+}
+
+.btn-header{
+	background-color: #fff;
+	text-transform: uppercase;
+	font-size:14px;
+	font-weight: 600;
+	color: #000;
+	letter-spacing: 1px;
+	border-radius: 30px;
+	padding: 10px 30px;
+	border-color: #000
+}
+
+
+footer{
+	background-color: #f2f2f2;
+}
